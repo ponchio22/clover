@@ -1,0 +1,8 @@
+F:\Projects\C#\ElectroxLaserSelectionLib\obj\Debug\ElectroxLaserSelectionLib.csprojResolveAssemblyReference.cache
+F:\Projects\C#\ElectroxLaserSelectionLib\bin\Debug\ElectroxLaserSelectionLib.dll
+F:\Projects\C#\ElectroxLaserSelectionLib\bin\Debug\ElectroxLaserSelectionLib.pdb
+F:\Projects\C#\ElectroxLaserSelectionLib\bin\Debug\DatabaseConnection.dll
+F:\Projects\C#\ElectroxLaserSelectionLib\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\C#\ElectroxLaserSelectionLib\bin\Debug\DatabaseConnection.pdb
+F:\Projects\C#\ElectroxLaserSelectionLib\obj\Debug\ElectroxLaserSelectionLib.dll
+F:\Projects\C#\ElectroxLaserSelectionLib\obj\Debug\ElectroxLaserSelectionLib.pdb

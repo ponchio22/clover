@@ -1,0 +1,5 @@
+F:\Projects\C#\ElectroxFixtureSelectionUI\ElectroxProgramsManagment\obj\Debug\ElectroxProgramsManagment.csprojResolveAssemblyReference.cache
+F:\Projects\C#\ElectroxFixtureSelectionUI\ElectroxProgramsManagment\bin\Debug\ElectroxProgramsManagmentLib.dll
+F:\Projects\C#\ElectroxFixtureSelectionUI\ElectroxProgramsManagment\bin\Debug\ElectroxProgramsManagmentLib.pdb
+F:\Projects\C#\ElectroxFixtureSelectionUI\ElectroxProgramsManagment\obj\Debug\ElectroxProgramsManagmentLib.dll
+F:\Projects\C#\ElectroxFixtureSelectionUI\ElectroxProgramsManagment\obj\Debug\ElectroxProgramsManagmentLib.pdb

@@ -1,0 +1,5 @@
+F:\Projects\C#\LocalSettingsManager\obj\Debug\LocalSettingsManager.csprojResolveAssemblyReference.cache
+F:\Projects\C#\LocalSettingsManager\bin\Debug\LocalSettingsManagerLib.dll
+F:\Projects\C#\LocalSettingsManager\bin\Debug\LocalSettingsManagerLib.pdb
+F:\Projects\C#\LocalSettingsManager\obj\Debug\LocalSettingsManagerLib.dll
+F:\Projects\C#\LocalSettingsManager\obj\Debug\LocalSettingsManagerLib.pdb

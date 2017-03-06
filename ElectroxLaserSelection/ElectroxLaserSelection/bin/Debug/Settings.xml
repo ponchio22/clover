@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <MarkerIniFileSource>\\file-server\files\49_ENG_TOOLS\Tools\Electrox Laser\marker.ini</MarkerIniFileSource>
+  <LaserListFileSource>\\file-server\files\49_ENG_TOOLS\UpdatedSource\LaserSelection\LasersList.xml</LaserListFileSource>
+  <FontAutoDownloadFileSource>\\file-server\files\49_ENG_TOOLS\UpdatedSource\LaserSelection\FontAutoDownload.xml</FontAutoDownloadFileSource>
+</Settings>

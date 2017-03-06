@@ -1,0 +1,15 @@
+E:\Documents\Projects\CmdMessenger\bin\Debug\CmdMessenger.dll
+E:\Documents\Projects\CmdMessenger\bin\Debug\CmdMessenger.pdb
+E:\Documents\Projects\CmdMessenger\obj\Debug\CmdMessenger.csprojResolveAssemblyReference.cache
+E:\Documents\Projects\CmdMessenger\obj\Debug\CmdMessenger.dll
+E:\Documents\Projects\CmdMessenger\obj\Debug\CmdMessenger.pdb
+Z:\CmdMessenger\bin\Debug\CmdMessenger.dll
+Z:\CmdMessenger\bin\Debug\CmdMessenger.pdb
+Z:\CmdMessenger\obj\Debug\CmdMessenger.csprojResolveAssemblyReference.cache
+Z:\CmdMessenger\obj\Debug\CmdMessenger.dll
+Z:\CmdMessenger\obj\Debug\CmdMessenger.pdb
+F:\Projects\C#\CmdMessenger\bin\Debug\CmdMessenger.dll
+F:\Projects\C#\CmdMessenger\bin\Debug\CmdMessenger.pdb
+F:\Projects\C#\CmdMessenger\obj\Debug\CmdMessenger.csprojResolveAssemblyReference.cache
+F:\Projects\C#\CmdMessenger\obj\Debug\CmdMessenger.dll
+F:\Projects\C#\CmdMessenger\obj\Debug\CmdMessenger.pdb

@@ -1,0 +1,27 @@
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensor\bin\Debug\SickDistanceSensor.dll
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensor\bin\Debug\SickDistanceSensor.pdb
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensor\bin\Debug\AutoConnectToArduino.dll
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensor\bin\Debug\CmdMessenger.dll
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensor\bin\Debug\AutoConnectToArduino.pdb
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensor\bin\Debug\CmdMessenger.pdb
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensor\obj\Debug\SickDistanceSensor.csprojResolveAssemblyReference.cache
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensor\obj\Debug\SickDistanceSensor.dll
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensor\obj\Debug\SickDistanceSensor.pdb
+Z:\SickDistanceSensor\bin\Debug\SickDistanceSensor.dll
+Z:\SickDistanceSensor\bin\Debug\SickDistanceSensor.pdb
+Z:\SickDistanceSensor\bin\Debug\AutoConnectToArduino.dll
+Z:\SickDistanceSensor\bin\Debug\CmdMessenger.dll
+Z:\SickDistanceSensor\bin\Debug\AutoConnectToArduino.pdb
+Z:\SickDistanceSensor\bin\Debug\CmdMessenger.pdb
+Z:\SickDistanceSensor\obj\Debug\SickDistanceSensor.csprojResolveAssemblyReference.cache
+Z:\SickDistanceSensor\obj\Debug\SickDistanceSensor.dll
+Z:\SickDistanceSensor\obj\Debug\SickDistanceSensor.pdb
+F:\Projects\C#\SickDistanceSensor\bin\Debug\SickDistanceSensor.dll
+F:\Projects\C#\SickDistanceSensor\bin\Debug\SickDistanceSensor.pdb
+F:\Projects\C#\SickDistanceSensor\bin\Debug\AutoConnectToArduino.dll
+F:\Projects\C#\SickDistanceSensor\bin\Debug\CmdMessenger.dll
+F:\Projects\C#\SickDistanceSensor\bin\Debug\AutoConnectToArduino.pdb
+F:\Projects\C#\SickDistanceSensor\bin\Debug\CmdMessenger.pdb
+F:\Projects\C#\SickDistanceSensor\obj\Debug\SickDistanceSensor.csprojResolveAssemblyReference.cache
+F:\Projects\C#\SickDistanceSensor\obj\Debug\SickDistanceSensor.dll
+F:\Projects\C#\SickDistanceSensor\obj\Debug\SickDistanceSensor.pdb

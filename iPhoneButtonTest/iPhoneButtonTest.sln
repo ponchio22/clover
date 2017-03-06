@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iPhoneButtonTest", "iPhoneButtonTest\iPhoneButtonTest.csproj", "{3A6716D6-50DF-4149-82F2-AE8899DEF803}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iPhBtnHardwareControl", "..\iPhBtnHardwareControl\iPhBtnHardwareControl.csproj", "{EFA1406D-2500-4622-9CC4-F644982C2129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A6716D6-50DF-4149-82F2-AE8899DEF803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6716D6-50DF-4149-82F2-AE8899DEF803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6716D6-50DF-4149-82F2-AE8899DEF803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6716D6-50DF-4149-82F2-AE8899DEF803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA1406D-2500-4622-9CC4-F644982C2129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA1406D-2500-4622-9CC4-F644982C2129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA1406D-2500-4622-9CC4-F644982C2129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA1406D-2500-4622-9CC4-F644982C2129}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

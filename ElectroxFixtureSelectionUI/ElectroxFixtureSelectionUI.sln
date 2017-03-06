@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFindComLib", "..\AutoFindComm\AutoFindComLib.csproj", "{1CB87A5B-24EA-46BD-A56E-18E8D87F2F7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectroxFixtureSelectionUI", "ElectroxFixtureSelectionUI\ElectroxFixtureSelectionUI.csproj", "{55BCA237-DE34-4E21-8D39-A44997324DCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CmdMessenger", "..\CmdMessenger\CmdMessenger.csproj", "{AD9EBC78-D7D1-4F32-9847-E6BF42B73B4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectroxFixtureSelectionLib", "..\ElectroxFixtureSelectionLib\ElectroxFixtureSelectionLib.csproj", "{96CD94E9-FC3A-4788-B558-6B07DA63B242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseConnection", "..\DatabaseConnection\DatabaseConnection.csproj", "{7000757A-C618-48E9-9D8B-8473FCF291F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectroxLaserSelectionLib", "..\ElectroxLaserSelectionLib\ElectroxLaserSelectionLib.csproj", "{9675B4C2-8681-41E5-A07F-F4D3B0F5B385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalSettingsManager", "..\LocalSettingsManager\LocalSettingsManager.csproj", "{CE6C71B4-E022-4958-9FD9-F540E904E047}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectroxProgramsManagment", "ElectroxProgramsManagment\ElectroxProgramsManagment.csproj", "{D2F97738-D4C9-41E5-B1DA-5074EC4CD5B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CB87A5B-24EA-46BD-A56E-18E8D87F2F7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB87A5B-24EA-46BD-A56E-18E8D87F2F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB87A5B-24EA-46BD-A56E-18E8D87F2F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB87A5B-24EA-46BD-A56E-18E8D87F2F7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55BCA237-DE34-4E21-8D39-A44997324DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BCA237-DE34-4E21-8D39-A44997324DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BCA237-DE34-4E21-8D39-A44997324DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55BCA237-DE34-4E21-8D39-A44997324DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD9EBC78-D7D1-4F32-9847-E6BF42B73B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD9EBC78-D7D1-4F32-9847-E6BF42B73B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD9EBC78-D7D1-4F32-9847-E6BF42B73B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD9EBC78-D7D1-4F32-9847-E6BF42B73B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96CD94E9-FC3A-4788-B558-6B07DA63B242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96CD94E9-FC3A-4788-B558-6B07DA63B242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96CD94E9-FC3A-4788-B558-6B07DA63B242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96CD94E9-FC3A-4788-B558-6B07DA63B242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7000757A-C618-48E9-9D8B-8473FCF291F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7000757A-C618-48E9-9D8B-8473FCF291F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7000757A-C618-48E9-9D8B-8473FCF291F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7000757A-C618-48E9-9D8B-8473FCF291F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9675B4C2-8681-41E5-A07F-F4D3B0F5B385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9675B4C2-8681-41E5-A07F-F4D3B0F5B385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9675B4C2-8681-41E5-A07F-F4D3B0F5B385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9675B4C2-8681-41E5-A07F-F4D3B0F5B385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6C71B4-E022-4958-9FD9-F540E904E047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6C71B4-E022-4958-9FD9-F540E904E047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6C71B4-E022-4958-9FD9-F540E904E047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6C71B4-E022-4958-9FD9-F540E904E047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2F97738-D4C9-41E5-B1DA-5074EC4CD5B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F97738-D4C9-41E5-B1DA-5074EC4CD5B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F97738-D4C9-41E5-B1DA-5074EC4CD5B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F97738-D4C9-41E5-B1DA-5074EC4CD5B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

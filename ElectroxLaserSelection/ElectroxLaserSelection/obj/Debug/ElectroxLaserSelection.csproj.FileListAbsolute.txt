@@ -1,0 +1,54 @@
+C:\Users\lpena\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\ElectroxLaserSelection.exe.config
+C:\Users\lpena\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\ElectroxLaserSelection.exe
+C:\Users\lpena\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\ElectroxLaserSelection.pdb
+C:\Users\lpena\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\UserManagment.dll
+C:\Users\lpena\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\UserManagment.pdb
+C:\Users\lpena\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\ElectroxLaserSelection.csprojResolveAssemblyReference.cache
+C:\Users\lpena\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\ElectroxLaserSelection.csproj.GenerateResource.Cache
+C:\Users\lpena\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\ElectroxLaserSelection.exe
+C:\Users\lpena\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\ElectroxLaserSelection.pdb
+C:\Users\lpena\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\Valutech.Electrox.LaserSelection.resources
+C:\Users\lpena\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\Valutech.Electrox.Properties.Resources.resources
+E:\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\ElectroxLaserSelection.exe.config
+E:\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\ElectroxLaserSelection.exe
+E:\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\ElectroxLaserSelection.pdb
+E:\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\ElectroxLaserSelection.exe
+E:\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\ElectroxLaserSelection.pdb
+E:\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\UserManagment.dll
+E:\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\UserManagment.pdb
+E:\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\ElectroxLaserSelection.csprojResolveAssemblyReference.cache
+E:\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\Valutech.Electrox.LaserSelection.resources
+E:\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\Valutech.Electrox.Properties.Resources.resources
+E:\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\ElectroxLaserSelection.csproj.GenerateResource.Cache
+C:\Users\lpena\Google Drive\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\ElectroxLaserSelection.exe.config
+C:\Users\lpena\Google Drive\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\ElectroxLaserSelection.exe
+C:\Users\lpena\Google Drive\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\ElectroxLaserSelection.pdb
+C:\Users\lpena\Google Drive\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\ElectroxLaserSelection.csprojResolveAssemblyReference.cache
+C:\Users\lpena\Google Drive\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\Valutech.Electrox.LaserSelection.resources
+C:\Users\lpena\Google Drive\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\Valutech.Electrox.Properties.Resources.resources
+C:\Users\lpena\Google Drive\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\ElectroxLaserSelection.csproj.GenerateResource.Cache
+C:\Users\lpena\Google Drive\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\ElectroxLaserSelection.exe
+C:\Users\lpena\Google Drive\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\ElectroxLaserSelection.pdb
+C:\Users\lpena\Google Drive\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\UserManagment.pdb
+C:\Users\lpena\Google Drive\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\DatabaseConnection.dll
+C:\Users\lpena\Google Drive\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\DatabaseConnection.pdb
+C:\Users\lpena\Google Drive\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lpena\Google Drive\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lpena\Google Drive\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\UserManagment.dll
+F:\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\ElectroxLaserSelection.exe.config
+F:\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\ElectroxLaserSelection.exe
+F:\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\ElectroxLaserSelection.pdb
+F:\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\ElectroxLaserSelection.csprojResolveAssemblyReference.cache
+F:\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\Valutech.Electrox.LaserSelection.resources
+F:\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\Valutech.Electrox.Properties.Resources.resources
+F:\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\obj\Debug\ElectroxLaserSelection.csproj.GenerateResource.Cache
+F:\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\ElectroxLaserSelection.exe
+F:\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\ElectroxLaserSelection.pdb
+F:\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\DatabaseConnection.dll
+F:\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\ElectroxLaserSelectionLib.dll
+F:\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\UserManagment.dll
+F:\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\DatabaseConnection.pdb
+F:\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\ElectroxLaserSelectionLib.pdb
+F:\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\UserManagment.pdb
+F:\Projects\C#\ElectroxLaserSelection\ElectroxLaserSelection\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,10 @@
+C:\Users\lpena\Google Drive\Projects\C#\DatabaseConnection\bin\Debug\DatabaseConnection.dll
+C:\Users\lpena\Google Drive\Projects\C#\DatabaseConnection\bin\Debug\DatabaseConnection.pdb
+C:\Users\lpena\Google Drive\Projects\C#\DatabaseConnection\obj\Debug\DatabaseConnection.csprojResolveAssemblyReference.cache
+C:\Users\lpena\Google Drive\Projects\C#\DatabaseConnection\obj\Debug\DatabaseConnection.dll
+C:\Users\lpena\Google Drive\Projects\C#\DatabaseConnection\obj\Debug\DatabaseConnection.pdb
+F:\Projects\C#\DatabaseConnection\bin\Debug\DatabaseConnection.dll
+F:\Projects\C#\DatabaseConnection\bin\Debug\DatabaseConnection.pdb
+F:\Projects\C#\DatabaseConnection\obj\Debug\DatabaseConnection.csprojResolveAssemblyReference.cache
+F:\Projects\C#\DatabaseConnection\obj\Debug\DatabaseConnection.dll
+F:\Projects\C#\DatabaseConnection\obj\Debug\DatabaseConnection.pdb

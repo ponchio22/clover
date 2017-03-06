@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8" ?>
+  <LaserList>
+    
+    <LaserEquipment>
+      <Plant>Planta 2</Plant>
+      <Area>IMEI</Area>
+      <Name>Laser 1 (Imei 5,6,6+)</Name>
+      <Ip>10.2.16.201</Ip>
+      <Dsp>LaserMarker_01 - MaxBox</Dsp>
+      <DspFile>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 1\DSP Parameters\LaserMarker_01 - MaxBox.dsp</DspFile>
+
+      <Lens>S163</Lens>
+      <LensAmp>2.701</LensAmp>
+      <XCompensation>.5</XCompensation>
+      <YCompensation>-.41</YCompensation>
+
+      <Mru1>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 1\Imei iPhone 5S Silver\IPH5SSILV.bpt</Mru1>
+      <Mru2>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 1\Imei iPhone 5S Space Grey\IPH5SPBL.BPT</Mru2>
+      <Mru3>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 1\Imei iPhone 5S Gold\IPH5SGOLD.BPT</Mru3>
+      <Mru4></Mru4>
+      <Mru5></Mru5>
+      <Mru6></Mru6>
+      <Mru7></Mru7>
+      <Mru8></Mru8>
+      <Mru9></Mru9>      
+    </LaserEquipment>
+
+    <LaserEquipment>
+      <Plant>Planta 1</Plant>
+      <Area>IMEI</Area>
+      <Name>Laser 2 (iPhone 5 - 5S)</Name>
+      <Ip>10.2.16.4</Ip>
+      <Dsp>LaserMarker_02 - S43608</Dsp>
+      <DspFile>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\DSP Parameters\LaserMarker_02 - S43608.dsp</DspFile>
+
+      <Lens>S163</Lens>
+      <LensAmp>2.701</LensAmp>
+      <XCompensation>.5</XCompensation>
+      <YCompensation>-.41</YCompensation>      
+
+      <Mru1>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\Imei iPhone 5 Black\IPH5BK.BPT</Mru1>
+      <Mru2>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\Imei iPhone 5 Black 2\IPH5BK2.BPT</Mru2>
+      <Mru3>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\Imei iPhone 5 White\IPH5WH.BPT</Mru3>
+      <Mru4>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\Imei iPhone 5S Gold\IPH5SGOLD.BPT</Mru4>
+      <Mru5>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\Imei iPhone 5S Silver\IPH5SSILV.bpt</Mru5>
+      <Mru6>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\Imei iPhone 5S Space Grey\IPH5SPBL.BPT</Mru6>
+      <Mru7></Mru7>
+      <Mru8></Mru8>
+      <Mru9></Mru9>
+    </LaserEquipment>
+	
+    <LaserEquipment>
+      <Plant>Planta 1</Plant>
+      <Area>IMEI</Area>
+      <Name>Laser 2 (iPhone 6)</Name>
+      <Ip>10.2.16.4</Ip>
+      <Dsp>LaserMarker_02 - S43608</Dsp>
+      <DspFile>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\DSP Parameters\LaserMarker_02 - S43608.dsp</DspFile>
+
+      <Lens>S163</Lens>
+      <LensAmp>2.701</LensAmp>
+      <XCompensation>.5</XCompensation>
+      <YCompensation>-.41</YCompensation>
+
+      <Mru1>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\Imei iPhone 6 Gold\IPH6GOLD.BPT</Mru1>
+      <Mru2>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\Imei iPhone 6 Gold Cellpoint\IPH6GCELL.BPT</Mru2>
+      <Mru3>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\Imei iPhone 6 Silver\IPH6SILVER.BPT</Mru3>
+      <Mru4>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\Imei iPhone 6 Silver Cellpoint\IPH6SCELL.BPT</Mru4>
+      <Mru5>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\Imei iPhone 6 Space Grey\IPH6SPG.BPT</Mru5>
+      <Mru6>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\Imei iPhone 6 Space Grey Cellpoint\IPH6SGCELL.BPT</Mru6>
+      <Mru7></Mru7>
+      <Mru8></Mru8>
+      <Mru9></Mru9>
+    </LaserEquipment>
+
+    <LaserEquipment>
+      <Plant>Planta 1</Plant>
+      <Area>IMEI</Area>
+      <Name>Laser 2 (iPhone 6+)</Name>
+      <Ip>10.2.16.4</Ip>
+      <Dsp>LaserMarker_02 - S43608</Dsp>
+      <DspFile>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\DSP Parameters\LaserMarker_02 - S43608.dsp</DspFile>
+
+      <Lens>S163</Lens>
+      <LensAmp>2.701</LensAmp>
+      <XCompensation>.5</XCompensation>
+      <YCompensation>-.41</YCompensation>
+
+      <Mru1>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\Imei iPhone 6+ Gold\IPH6PGOLD.bpt</Mru1>
+      <Mru2>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\Imei iPhone 6+ Gold Cellpoint\IPH6PGDCELL.BPT</Mru2>
+      <Mru3>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\Imei iPhone 6+ Silver\IPH6PSILVER.bpt</Mru3>
+      <Mru4>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\Imei iPhone 6+ Silver Cellpoint\IPH6PSILVCELL.BPT</Mru4>
+      <Mru5>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\Imei iPhone 6+ Space Grey\IPH6PSpaceGray.bpt</Mru5>
+      <Mru6>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\Imei iPhone 6+ Space Grey Cellpoint\IPH6PSGCELL.BPT</Mru6>
+      <Mru7></Mru7>
+      <Mru8></Mru8>
+      <Mru9></Mru9>
+    </LaserEquipment>
+
+    <LaserEquipment>
+      <Plant>Planta 1</Plant>
+      <Area>IMEI</Area>
+      <Name>Laser 2 (iPhone 6S)</Name>
+      <Ip>10.2.16.4</Ip>
+      <Dsp>LaserMarker_02 - S43608</Dsp>
+      <DspFile>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\DSP Parameters\LaserMarker_02 - S43608.dsp</DspFile>
+
+      <Lens>S163</Lens>
+      <LensAmp>2.701</LensAmp>
+      <XCompensation>.5</XCompensation>
+      <YCompensation>-.41</YCompensation>
+
+      <Mru1>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\Imei iPhone 6S\IPH6S.BPT</Mru1>
+      <Mru2>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\Model iPhone 6S Pink\IPH6SMPKGD.BPT</Mru2>
+      <Mru3></Mru3>
+      <Mru4></Mru4>
+      <Mru5></Mru5>
+      <Mru6></Mru6>
+      <Mru7></Mru7>
+      <Mru8></Mru8>
+      <Mru9></Mru9>
+    </LaserEquipment>
+
+    <LaserEquipment>
+      <Plant>Planta 1</Plant>
+      <Area>Anodizing</Area>
+      <Name>Laser 3 (Logos)</Name>
+      <Ip>10.2.31.156</Ip>
+      <Dsp>LaserMarker_03</Dsp>
+      <DspFile>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 3\DSP Parameters\LaserMarker_03.dsp</DspFile>
+
+      <Lens>S254</Lens>
+      <LensAmp>1.857</LensAmp>
+      <XCompensation>.6</XCompensation>
+      <YCompensation>-.3</YCompensation>
+
+      <Mru1>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 3\Contacts IPhone5\IPH5CONT.BPT</Mru1>
+      <Mru2>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 3\Contacts IPhone5s\IPH5SCONT.bpt</Mru2>      
+      <Mru3>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 3\Contacts IPhone6\IPH6CONT.bpt</Mru3>
+      <Mru4>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 3\Contacts IPhone6P\IPH6PCONT.bpt</Mru4>
+      <Mru5>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 3\Contacts IPhone5 Top\IPH5CONTTOP.BPT</Mru5>
+      <Mru6>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 3\Contacts IPhone5s Top\IPH5SCONTTOP.BPT</Mru6>
+      <Mru7>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 3\Contacts IPhone6 Top\IPH6CONTTOP.BPT</Mru7>
+      <Mru8>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 3\Contacts IPhone6P Top\IPH6PCONTTOP.BPT</Mru8>
+      <Mru9></Mru9>
+    </LaserEquipment>
+
+    <LaserEquipment>
+      <Plant>Planta 1</Plant>
+      <Area>IMEI</Area>
+      <Name>Laser 4 (iPhone 5 - 5S)</Name>
+      <Ip>10.2.16.205</Ip>
+      <Dsp>LaserMarker_04 - S43814E</Dsp>
+      <DspFile>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 4\DSP Parameters\LaserMarker_04 - S43814E.dsp</DspFile>
+
+      <Lens>S163</Lens>
+      <LensAmp>2.701</LensAmp>
+      <XCompensation>.5</XCompensation>
+      <YCompensation>-.41</YCompensation>
+
+      <Mru1>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 4\Imei iPhone 5 Black\IPH5BK.BPT</Mru1>
+      <Mru2>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 4\Imei iPhone 5 Black 2\IPH5BK2.BPT</Mru2>
+      <Mru3>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 4\Imei iPhone 5 White\IPH5WH.BPT</Mru3>
+      <Mru4>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 4\Imei iPhone 5S Gold\IPH5SGOLD.BPT</Mru4>
+      <Mru5>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 4\Imei iPhone 5S Silver\IPH5SSILV.bpt</Mru5>
+      <Mru6>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 4\Imei iPhone 5S Space Grey\IPH5SPBL.BPT</Mru6>
+      <Mru7>\\FILE-SERVER\Files\49_ENG_TOOLS\Laser Programs\Laser 4\Imei iPhone 5S Gold Portugal\IPH5SGOLDP.BPT</Mru7>
+      <Mru8>\\FILE-SERVER\Files\49_ENG_TOOLS\Laser Programs\Laser 4\Imei iPhone 5S Silver Portugal\IPH5SSILVP.bpt</Mru8>
+      <Mru9>\\FILE-SERVER\Files\49_ENG_TOOLS\Laser Programs\Laser 4\Imei iPhone 5S Space Grey Portugal\IPH5SPBLP.BPT</Mru9>
+    </LaserEquipment>
+
+    <LaserEquipment>
+      <Plant>Planta 1</Plant>
+      <Area>IMEI</Area>
+      <Name>Laser 4  (iPhone 6)</Name>
+      <Ip>10.2.16.205</Ip>
+      <Dsp>LaserMarker_04 - S43814E</Dsp>
+      <DspFile>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 4\DSP Parameters\LaserMarker_04 - S43814E.dsp</DspFile>
+
+      <Lens>S163</Lens>
+      <LensAmp>2.701</LensAmp>
+      <XCompensation>.5</XCompensation>
+      <YCompensation>-.41</YCompensation>
+
+      <Mru1>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 4\Imei iPhone 6 Gold\IPH6GOLD.BPT</Mru1>
+      <Mru2>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 4\Imei iPhone 6 Gold Cellpoint\IPH6GCELL.BPT</Mru2>
+      <Mru3>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 4\Imei iPhone 6 Silver\IPH6SILVER.BPT</Mru3>
+      <Mru4>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 4\Imei iPhone 6 Silver Cellpoint\IPH6SCELL.BPT</Mru4>
+      <Mru5>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 4\Imei iPhone 6 Space Grey\IPH6SPG.BPT</Mru5>
+      <Mru6>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 4\Imei iPhone 6 Space Grey Cellpoint\IPH6SGCELL.BPT</Mru6>
+      <Mru7></Mru7>
+      <Mru8></Mru8>
+      <Mru9></Mru9>
+    </LaserEquipment>
+
+    <LaserEquipment>
+      <Plant>Planta 1</Plant>
+      <Area>IMEI</Area>
+      <Name>Laser 4 (iPhone 6+)</Name>
+      <Ip>10.2.16.205</Ip>
+      <Dsp>LaserMarker_04 - S43814E</Dsp>
+      <DspFile>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 4\DSP Parameters\LaserMarker_04 - S43814E.dsp</DspFile>
+
+      <Lens>S163</Lens>
+      <LensAmp>2.701</LensAmp>
+      <XCompensation>.5</XCompensation>
+      <YCompensation>-.41</YCompensation>
+
+      <Mru1>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 4\Imei iPhone 6+ Gold\IPH6PGOLD.bpt</Mru1>
+      <Mru2>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 4\Imei iPhone 6+ Gold Cellpoint\IPH6PGDCELL.BPT</Mru2>
+      <Mru3>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 4\Imei iPhone 6+ Silver\IPH6PSILVER.bpt</Mru3>
+      <Mru4>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 4\Imei iPhone 6+ Silver Cellpoint\IPH6PSILVCELL.BPT</Mru4>
+      <Mru5>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 4\Imei iPhone 6+ Space Grey\IPH6PSpaceGray.bpt</Mru5>
+      <Mru6>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 4\Imei iPhone 6+ Space Grey Cellpoint\IPH6PSGCELL.BPT</Mru6>
+      <Mru7></Mru7>
+      <Mru8></Mru8>
+      <Mru9></Mru9>
+    </LaserEquipment>
+
+    <LaserEquipment>
+      <Plant>Planta 1</Plant>
+      <Area>B Cover Center</Area>
+      <Name>Laser 5 (Contactos Top)</Name>
+      <Ip>10.2.16.204</Ip>
+      <Dsp>LaserMarker_05</Dsp>
+      <DspFile>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 5\DSP Parameters\LaserMarker_05.dsp</DspFile>
+
+      <Lens>S254</Lens>
+      <LensAmp>1.857</LensAmp>
+      <XCompensation>.6</XCompensation>
+      <YCompensation>-.3</YCompensation>
+
+      <Mru1>\\file-server\Files\49_ENG_TOOLS\Laser Programs\Laser 5\Contacts IPhone5\IPH5CONT.BPT</Mru1>
+      <Mru2>\\file-server\Files\49_ENG_TOOLS\Laser Programs\Laser 5\Contacts IPhone5 Top\IPH5CONTTOP.BPT</Mru2>
+      <Mru3>\\file-server\Files\49_ENG_TOOLS\Laser Programs\Laser 5\Contacts IPhone5s\IPH5SCONT.bpt</Mru3>
+      <Mru4>\\file-server\Files\49_ENG_TOOLS\Laser Programs\Laser 5\Contacts IPhone5s Top\IPH5SCONTTOP.BPT</Mru4>
+      <Mru5>\\file-server\Files\49_ENG_TOOLS\Laser Programs\Laser 5\Contacts IPhone6\IPH6CONT.bpt</Mru5>
+      <Mru6>\\file-server\Files\49_ENG_TOOLS\Laser Programs\Laser 5\Contacts IPhone6 Top\IPH6CONTTOP.BPT</Mru6>
+      <Mru7>\\file-server\Files\49_ENG_TOOLS\Laser Programs\Laser 5\Contacts IPhone6P\IPH6PCONT.bpt</Mru7>
+      <Mru8>\\file-server\Files\49_ENG_TOOLS\Laser Programs\Laser 5\Contacts IPhone6P Top\IPH6PCONTTOP.BPT</Mru8>
+      <Mru9></Mru9>
+    </LaserEquipment>
+
+    <LaserEquipment>
+      <Plant>Planta 2</Plant>
+      <Area></Area>
+      <Name>Laser 6</Name>
+      <Ip>10.2.31.151</Ip>
+      <Dsp>LaserMarker_06 - S43935E</Dsp>
+      <DspFile>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 6\DSP Parameters\LaserMarker_06 - S43935E.dsp</DspFile>
+
+      <Lens>S254</Lens>
+      <LensAmp>1.857</LensAmp>
+      <XCompensation>.6</XCompensation>
+      <YCompensation>-.3</YCompensation>
+
+      <Mru1></Mru1>
+      <Mru2></Mru2>
+      <Mru3></Mru3>
+      <Mru4></Mru4>
+      <Mru5></Mru5>
+      <Mru6></Mru6>
+      <Mru7></Mru7>
+      <Mru8></Mru8>
+      <Mru9></Mru9>
+    </LaserEquipment>
+
+    <LaserEquipment>
+      <Plant>Planta 1</Plant>
+      <Area>B Cover Center</Area>
+      <Name>Laser 7</Name>
+      <Ip>10.2.16.32</Ip>
+      <Dsp>LaserMarker_07 - S43936E</Dsp>
+      <DspFile>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 7\DSP Parameters\LaserMarker_07 - S43936E.dsp</DspFile>
+
+      <Lens>S254</Lens>
+      <LensAmp>1.857</LensAmp>
+      <XCompensation>.6</XCompensation>
+      <YCompensation>-.3</YCompensation>
+
+      <Mru1></Mru1>
+      <Mru2></Mru2>
+      <Mru3></Mru3>
+      <Mru4></Mru4>
+      <Mru5></Mru5>
+      <Mru6></Mru6>
+      <Mru7></Mru7>
+      <Mru8></Mru8>
+      <Mru9></Mru9>
+    </LaserEquipment>
+
+    <LaserEquipment>
+      <Plant>Planta 2</Plant>
+      <Area></Area>
+      <Name>Laser 8</Name>
+      <Ip>10.2.31.153</Ip>
+      <Dsp>LaserMarker_08 - S43934E</Dsp>
+      <DspFile>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 8\DSP Parameters\LaserMarker_08 - S43934E.dsp</DspFile>
+
+      <Lens>S254</Lens>
+      <LensAmp>1.857</LensAmp>
+      <XCompensation>.6</XCompensation>
+      <YCompensation>-.3</YCompensation>
+
+      <Mru1>\\file-server\files\49_ENG_TOOLS\Tools\Electrox Laser\Projects\Electrox\Valutech Programs\IPHONE 5 BLACK\L4\IPH5BK.BPT</Mru1>
+      <Mru2>\\file-server\files\49_ENG_TOOLS\Tools\Electrox Laser\Projects\Electrox\Valutech Programs\IPHONE 5 BLACK\L4\IPH5BK2.BPT</Mru2>
+      <Mru3>\\file-server\files\49_ENG_TOOLS\Tools\Electrox Laser\Projects\Electrox\Valutech Programs\IPHONE 5 WHITE\L4\IPH5WH.BPT</Mru3>
+      <Mru4>\\file-server\files\49_ENG_TOOLS\Tools\Electrox Laser\Projects\Electrox\Valutech Programs\Iphone 5S Silver\L4\IPH5SSILV.bpt</Mru4>
+      <Mru5>\\file-server\files\49_ENG_TOOLS\Tools\Electrox Laser\Projects\Electrox\Valutech Programs\iPhone 5S GOLD\IPH5SGOLD.BPT</Mru5>
+      <Mru6>\\file-server\files\49_ENG_TOOLS\Tools\Electrox Laser\Projects\Electrox\Valutech Programs\IPHONE5SSpaceBK\IPH5SPBL.BPT</Mru6>
+      <Mru7></Mru7>
+      <Mru8></Mru8>
+      <Mru9></Mru9>
+    </LaserEquipment>
+
+    <LaserEquipment>
+      <Plant>Planta 1</Plant>
+      <Area>B Cover Center</Area>
+      <Name>Laser 9 Rotatoria</Name>
+      <Ip>10.2.16.208</Ip>
+      <Dsp>LaserMarker_09 - S44045E</Dsp>
+      <DspFile>\\file-server\Files\49_ENG_TOOLS\Laser Programs\Laser 9 Rotatoria\DSP Parameters\LaserMarker_09 - S44045E.dsp</DspFile>
+
+      <Lens>S254</Lens>
+      <LensAmp>1.857</LensAmp>
+      <XCompensation>.6</XCompensation>
+      <YCompensation>-.3</YCompensation>
+
+      <Mru1>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 9 Rotatoria\Contacts iPhone 5\IPH5CONT.BPT</Mru1>
+      <Mru2>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 9 Rotatoria\Contacts iPhone 5S\IPH5SCONT.BPT</Mru2>
+      <Mru3>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 9 Rotatoria\Contacts iPhone 6\IPH6CONT.bpt</Mru3>
+      <Mru4>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 9 Rotatoria\Contacts iPhone 6p\IPH6PCONT.bpt</Mru4>
+      <Mru5></Mru5>
+      <Mru6></Mru6>
+      <Mru7></Mru7>
+      <Mru8></Mru8>
+      <Mru9></Mru9>
+    </LaserEquipment>
+
+    <LaserEquipment>
+      <Plant>Planta 1</Plant>
+      <Area>B Cover Center</Area>
+      <Name>Laser 10 Rotatoria</Name>
+      <Ip>10.2.16.211</Ip>
+      <Dsp>LaserMarker_10 - S44046E</Dsp>
+      <DspFile>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 10 Rotatoria\DSP Parameters\LaserMarker_10 - S44046E.dsp</DspFile>
+
+      <Lens>S254</Lens>
+      <LensAmp>1.857</LensAmp>
+      <XCompensation>.6</XCompensation>
+      <YCompensation>-.3</YCompensation>
+
+      <Mru1>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 10 Rotatoria\Contacts Iphone5\IPH5CONT.bpt</Mru1>
+      <Mru2>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 10 Rotatoria\Contacts Iphone5s\IPH5SCONT.BPT</Mru2>
+      <Mru3>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 10 Rotatoria\Contacts iPhone6\IPH6CONT.bpt</Mru3>
+      <Mru4>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 10 Rotatoria\Contacts iPhone 6p\IPH6PCONT.bpt</Mru4>
+      <Mru5></Mru5>
+      <Mru6></Mru6>
+      <Mru7></Mru7>
+      <Mru8></Mru8>
+      <Mru9></Mru9>
+    </LaserEquipment>
+
+    <LaserEquipment>
+      <Plant>Planta 1</Plant>
+      <Area>IMEI</Area>
+      <Name>Laser 11 (iPhone 5 - 5S)</Name>
+      <Ip>10.2.16.31</Ip>
+      <Dsp>LaserMarker_11</Dsp>
+      <DspFile>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 11\DSP Parameters\LaserMarker_11.dsp</DspFile>
+
+      <Lens>S163</Lens>
+      <LensAmp>2.7989</LensAmp>
+      <XCompensation>0</XCompensation>
+      <YCompensation>0</YCompensation>
+
+      <Mru1>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 11\Imei iPhone 5 Black\IPH5BK.BPT</Mru1>
+      <Mru2>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 11\Imei iPhone 5 Black 2\IPH5BK2.BPT</Mru2>
+      <Mru3>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 11\Imei iPhone 5 White\IPH5WH.BPT</Mru3>
+      <Mru4>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 11\Imei iPhone 5S Gold\IPH5SGOLD.BPT</Mru4>
+      <Mru5>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 11\Imei iPhone 5S Silver\IPH5SSILV.bpt</Mru5>
+      <Mru6>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 11\Imei iPhone 5S Space Grey\IPH5SPBL.BPT</Mru6>
+      <Mru7></Mru7>
+      <Mru8></Mru8>
+      <Mru9></Mru9>
+    </LaserEquipment>
+   
+    <LaserEquipment>
+     <Plant>Planta 1</Plant>
+      <Area>IMEI</Area>
+      <Name>Laser 11 (iPhone 6 )</Name>
+      <Ip>10.2.16.31</Ip>
+      <Dsp>LaserMarker_11</Dsp>
+      <DspFile>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 11\DSP Parameters\LaserMarker_11.dsp</DspFile>
+
+      <Lens>S163</Lens>
+      <LensAmp>2.7989</LensAmp>
+      <XCompensation>0</XCompensation>
+      <YCompensation>0</YCompensation>
+
+      <Mru1>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 11\Imei iPhone 6 Gold\IPH6GOLD.BPT</Mru1>
+      <Mru2>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 11\Imei iPhone 6 Gold Cellpoint\IPH6GCELL.BPT</Mru2>
+      <Mru3>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 11\Imei iPhone 6 Silver\IPH6SILVER.BPT</Mru3>
+      <Mru4>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 11\Imei iPhone 6 Silver Cellpoint\IPH6SCELL.BPT</Mru4>
+      <Mru5>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 11\Imei iPhone 6 Space Grey\IPH6SPG.BPT</Mru5>
+      <Mru6>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 11\Imei iPhone 6 Space Grey Cellpoint\IPH6SGCELL.BPT</Mru6>
+      <Mru7></Mru7>
+      <Mru8></Mru8>
+      <Mru9></Mru9>
+    </LaserEquipment>
+   
+     <LaserEquipment>
+      <Plant>Planta 1</Plant>
+      <Area>IMEI</Area>
+      <Name>Laser 11 (iPhone 6+)</Name>
+      <Ip>10.2.16.31</Ip>
+      <Dsp>LaserMarker_11</Dsp>
+      <DspFile>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 11\DSP Parameters\LaserMarker_11.dsp</DspFile>
+
+      <Lens>S163</Lens>
+      <LensAmp>2.7989</LensAmp>
+      <XCompensation>0</XCompensation>
+      <YCompensation>0</YCompensation>
+
+      <Mru1>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 11\Imei iPhone 6+ Gold\IPH6PGOLD.bpt</Mru1>
+      <Mru2>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 11\Imei iPhone 6+ Gold Cellpoint\IPH6PGDCELL.BPT</Mru2>
+      <Mru3>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 11\Imei iPhone 6+ Silver\IPH6PSILVER.bpt</Mru3>
+      <Mru4>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 11\Imei iPhone 6+ Silver Cellpoint\IPH6PSILVCELL.BPT</Mru4>
+      <Mru5>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 11\Imei iPhone 6+ Space Grey\IPH6PSpaceGray.bpt</Mru5>
+      <Mru6>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 11\Imei iPhone 6+ Space Grey Cellpoint\IPH6PSGCELL.BPT</Mru6>
+      <Mru7></Mru7>
+      <Mru8></Mru8>
+      <Mru9></Mru9>
+     </LaserEquipment>
+
+     <LaserEquipment>
+      <Plant>Planta 1</Plant>
+      <Area>IMEI</Area>
+      <Name>Laser 11 (iPhone 6S)</Name>
+      <Ip>10.2.16.31</Ip>
+      <Dsp>LaserMarker_11</Dsp>
+      <DspFile>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 11\DSP Parameters\LaserMarker_11.dsp</DspFile>
+
+      <Lens>S163</Lens>
+      <LensAmp>2.7989</LensAmp>
+      <XCompensation>0</XCompensation>
+      <YCompensation>0</YCompensation>
+
+      <Mru1>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\Imei iPhone 6S\IPH6S.BPT</Mru1>
+      <Mru2>\\file-server\files\49_ENG_TOOLS\Laser Programs\Laser 2\Model iPhone 6S Pink\IPH6SMPKGD.BPT</Mru2>
+      <Mru3></Mru3>
+      <Mru4></Mru4>
+      <Mru5></Mru5>
+      <Mru6></Mru6>
+      <Mru7></Mru7>
+      <Mru8></Mru8>
+      <Mru9></Mru9>
+     </LaserEquipment>
+
+
+  </LaserList>

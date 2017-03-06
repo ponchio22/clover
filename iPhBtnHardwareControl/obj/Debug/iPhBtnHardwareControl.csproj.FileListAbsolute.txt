@@ -1,0 +1,14 @@
+C:\Users\lpena\Google Drive\Projects\C#\iPhBtnHardwareControl\bin\Debug\iPhBtnHardwareControl.dll
+C:\Users\lpena\Google Drive\Projects\C#\iPhBtnHardwareControl\bin\Debug\iPhBtnHardwareControl.pdb
+C:\Users\lpena\Google Drive\Projects\C#\iPhBtnHardwareControl\bin\Debug\AutoConnectToArduino.dll
+C:\Users\lpena\Google Drive\Projects\C#\iPhBtnHardwareControl\bin\Debug\AutoConnectToArduino.pdb
+C:\Users\lpena\Google Drive\Projects\C#\iPhBtnHardwareControl\obj\Debug\iPhBtnHardwareControl.csprojResolveAssemblyReference.cache
+C:\Users\lpena\Google Drive\Projects\C#\iPhBtnHardwareControl\obj\Debug\iPhBtnHardwareControl.dll
+C:\Users\lpena\Google Drive\Projects\C#\iPhBtnHardwareControl\obj\Debug\iPhBtnHardwareControl.pdb
+F:\Projects\C#\iPhBtnHardwareControl\bin\Debug\iPhBtnHardwareControl.dll
+F:\Projects\C#\iPhBtnHardwareControl\bin\Debug\iPhBtnHardwareControl.pdb
+F:\Projects\C#\iPhBtnHardwareControl\obj\Debug\iPhBtnHardwareControl.csprojResolveAssemblyReference.cache
+F:\Projects\C#\iPhBtnHardwareControl\obj\Debug\iPhBtnHardwareControl.dll
+F:\Projects\C#\iPhBtnHardwareControl\obj\Debug\iPhBtnHardwareControl.pdb
+F:\Projects\C#\iPhBtnHardwareControl\bin\Debug\AutoFindComLib.dll
+F:\Projects\C#\iPhBtnHardwareControl\bin\Debug\AutoFindComLib.pdb

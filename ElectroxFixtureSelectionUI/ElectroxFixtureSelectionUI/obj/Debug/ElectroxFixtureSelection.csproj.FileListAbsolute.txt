@@ -1,0 +1,3 @@
+C:\Users\lpena\Google Drive\Projects\C#\ElectroxFixtureSelection\ElectroxFixtureSelection\bin\Debug\ElectroxFixtureSelection.exe.config
+Z:\ElectroxFixtureSelection\ElectroxFixtureSelection\bin\Debug\ElectroxFixtureSelection.exe.config
+F:\Projects\C#\ElectroxFixtureSelection\ElectroxFixtureSelection\bin\Debug\ElectroxFixtureSelection.exe.config

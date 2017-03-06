@@ -1,0 +1,14 @@
+C:\Users\lpena\Documents\Projects\UserManagment\UserManagment\obj\Debug\UserManagment.LoginForm.resources
+C:\Users\lpena\Documents\Projects\UserManagment\UserManagment\obj\Debug\UserManagment.csproj.GenerateResource.Cache
+C:\Users\lpena\Documents\Projects\UserManagment\UserManagment\obj\Debug\UserManagment.csprojResolveAssemblyReference.cache
+C:\Users\lpena\Documents\Projects\UserManagment\UserManagment\bin\Debug\UserManagment.dll
+C:\Users\lpena\Documents\Projects\UserManagment\UserManagment\bin\Debug\UserManagment.pdb
+C:\Users\lpena\Documents\Projects\UserManagment\UserManagment\obj\Debug\UserManagment.dll
+C:\Users\lpena\Documents\Projects\UserManagment\UserManagment\obj\Debug\UserManagment.pdb
+C:\Users\lpena\Google Drive\Projects\C#\UserManagment\UserManagment\bin\Debug\UserManagment.dll
+C:\Users\lpena\Google Drive\Projects\C#\UserManagment\UserManagment\bin\Debug\UserManagment.pdb
+C:\Users\lpena\Google Drive\Projects\C#\UserManagment\UserManagment\obj\Debug\UserManagment.csprojResolveAssemblyReference.cache
+C:\Users\lpena\Google Drive\Projects\C#\UserManagment\UserManagment\obj\Debug\UserManagment.LoginForm.resources
+C:\Users\lpena\Google Drive\Projects\C#\UserManagment\UserManagment\obj\Debug\UserManagment.csproj.GenerateResource.Cache
+C:\Users\lpena\Google Drive\Projects\C#\UserManagment\UserManagment\obj\Debug\UserManagment.dll
+C:\Users\lpena\Google Drive\Projects\C#\UserManagment\UserManagment\obj\Debug\UserManagment.pdb

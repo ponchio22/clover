@@ -1,0 +1,10 @@
+C:\Users\lpena\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\bin\Release\ElectroxLaserSelection.exe.config
+C:\Users\lpena\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\bin\Release\ElectroxLaserSelection.exe
+C:\Users\lpena\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\bin\Release\ElectroxLaserSelection.pdb
+C:\Users\lpena\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\bin\Release\UserManagment.dll
+C:\Users\lpena\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\bin\Release\UserManagment.pdb
+C:\Users\lpena\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\obj\Release\Valutech.Electrox.LaserSelection.resources
+C:\Users\lpena\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\obj\Release\Valutech.Electrox.Properties.Resources.resources
+C:\Users\lpena\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\obj\Release\ElectroxLaserSelection.csproj.GenerateResource.Cache
+C:\Users\lpena\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\obj\Release\ElectroxLaserSelection.exe
+C:\Users\lpena\Documents\Projects\ElectroxLaserSelection\ElectroxLaserSelection\obj\Release\ElectroxLaserSelection.pdb

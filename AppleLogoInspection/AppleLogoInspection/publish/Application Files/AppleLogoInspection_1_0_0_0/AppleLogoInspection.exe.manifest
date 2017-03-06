@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="AppleLogoInspection.exe" version="1.0.0.0" publicKeyToken="f7f87f269371c5db" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="AppleLogoInspection" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="AppleLogoInspection.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AForge.dll" size="9728">
+      <assemblyIdentity name="AForge" version="2.0.0.0" publicKeyToken="C1DB6FF4EAA06AEB" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>U4OLo3kVUcr1DCaMedyCTBBhOiAi93Gf2W2U9aKUrvU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AForge.Controls.dll" size="14336">
+      <assemblyIdentity name="AForge.Controls" version="2.0.0.0" publicKeyToken="A8AC264D1DC6B9D9" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>UuAHY47t/583xpiHRwxtDLgaDE6V+L6pRaR1XBbv1RU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AForge.Imaging.dll" size="97792">
+      <assemblyIdentity name="AForge.Imaging" version="2.0.0.0" publicKeyToken="BA8DDEA9676CA48B" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>V5rNfuOMCl6dvNL67MS7h8BkOJAkcK7wsZ3v58vdtkA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AForge.Video.dll" size="13312">
+      <assemblyIdentity name="AForge.Video" version="2.0.0.0" publicKeyToken="CBFB6E07D173C401" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>1RcgSCa2QM6KotHIc2azj9CywYFx2JcaGYGw40AfjFA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AForge.Video.DirectShow.dll" size="27136">
+      <assemblyIdentity name="AForge.Video.DirectShow" version="2.0.0.0" publicKeyToken="61EA4348D43881B7" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Gy8G/4Gs1x72GU4y/0rLjWUj47iqaTADLsjwOoXwVno=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AppleLogoInspection.exe" size="7168">
+      <assemblyIdentity name="AppleLogoInspection" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>zNHl/iF+/LmjNgMTs+LnLmR2cP80msb1hKUJsSMkPTw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="AppleLogoInspection.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=VALUOUT\lpena" issuerKeyHash="7d6865f14dae8c09ea24c5c552c31c31a4103246" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>HTHHXi1bQzbKNWArEXhb78pqPSbl9lVSdAfWYqZPqSE=</DigestValue></Reference></SignedInfo><SignatureValue>WC0bScmsPQUOvWz0aVfmUgKqYFPnnV24iJ0fEX2WPrzg8rF4gk0M/sQgW62gPb0sPcxjgps09/QqZxLaNjzJ92U0pwp7gSLrMa3WvRJGRtN0Mz+wcnNEpW9372QfgGZari5ElY7/MBHwFSleCpzNrg2wUTZjCojNqfH4PrRh5hA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>kCp+E8wTl6VM17Mhl2VlMb90FO3PnAxeNMP8F93L+1GSmYUKrptWTyT3aOs5HYQv7EMiGMZXNyzpGccDKos0HQTXPU6cZVh+ih+ZIDfRtvFO2/9OT6a9bzxBQqdQh9nw5pD1DvQll5xBWM+tZMz6yXkJffC3V78CHLtGa8ivm4k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="21a94fa662d607745255f6e5263d6acaef5b78112b6035ca36435b2d5ec7311d" Description="" Url=""><as:assemblyIdentity name="AppleLogoInspection.exe" version="1.0.0.0" publicKeyToken="f7f87f269371c5db" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=VALUOUT\lpena</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>E7cezYA5iFp49nRYq4LdLUJD1Wyl5bNOMXl6ZGNG6DU=</DigestValue></Reference></SignedInfo><SignatureValue>hDcmN/gJTDij+R3sV/U6MRWXzeSXUXcb2UbpS3u2eEgmuJ1QH9T+jKr6jx56je087QtV9+t8iiNh6xdJMe8YA5DsBpIz9JIaudU49lBWPOKVEg1OwVcZuOSjmExKXMVa8L3QWkOXdQ6SckxibSWciESj8yv8pOzKQYoKEahFMNQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>kCp+E8wTl6VM17Mhl2VlMb90FO3PnAxeNMP8F93L+1GSmYUKrptWTyT3aOs5HYQv7EMiGMZXNyzpGccDKos0HQTXPU6cZVh+ih+ZIDfRtvFO2/9OT6a9bzxBQqdQh9nw5pD1DvQll5xBWM+tZMz6yXkJffC3V78CHLtGa8ivm4k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQEfJXer82FatPyTU6VdJXBTANBgkqhkiG9w0BAQsFADAlMSMwIQYDVQQDHhoAVgBBAEwAVQBPAFUAVABcAGwAcABlAG4AYTAeFw0xNjAxMTQxOTI1MzFaFw0xNzAxMTQwMTI1MzFaMCUxIzAhBgNVBAMeGgBWAEEATABVAE8AVQBUAFwAbABwAGUAbgBhMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCQKn4TzBOXpUzXsyGXZWUxv3QU7c+cDF40w/wX3cv7UZKZhQqum1ZPJPdo6zkdhC/sQyIYxlc3LOkZxwMqizQdBNc9TpxlWH6KH5kgN9G28U7b/05Ppr1vPEFCp1CH2fDmkPUO9CWXnEFYz61kzPrJeQl98LdXvwIcu0ZryK+biQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAD7mUpU9FZFgtlcdDMVc/PJqnkiRaA+TFNJFjGW3iWwfJXAOUgiw0dsxhUycl/RoOKoC+nPUWDOiMAHBJ/lwHT+jkY2sFoFRCZe/o28CupX2VVUPeJEdTIJdLNkMct5HYbEbx0cyOnPMWD/PBixHh3wFvVC7MeAYAgd1rzeTM0gE</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

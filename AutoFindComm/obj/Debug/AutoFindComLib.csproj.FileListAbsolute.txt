@@ -1,0 +1,14 @@
+E:\Documents\Projects\AutoConnectToArduino\bin\Debug\AutoConnectToArduino.dll
+E:\Documents\Projects\AutoConnectToArduino\bin\Debug\AutoConnectToArduino.pdb
+E:\Documents\Projects\AutoConnectToArduino\obj\Debug\AutoConnectToArduino.dll
+E:\Documents\Projects\AutoConnectToArduino\obj\Debug\AutoConnectToArduino.pdb
+Z:\AutoFindComm\bin\Debug\AutoConnectToArduino.dll
+Z:\AutoFindComm\bin\Debug\AutoConnectToArduino.pdb
+Z:\AutoFindComm\obj\Debug\AutoFindComLib.csprojResolveAssemblyReference.cache
+Z:\AutoFindComm\obj\Debug\AutoConnectToArduino.dll
+Z:\AutoFindComm\obj\Debug\AutoConnectToArduino.pdb
+F:\Projects\C#\AutoFindComm\obj\Debug\AutoFindComLib.csprojResolveAssemblyReference.cache
+F:\Projects\C#\AutoFindComm\bin\Debug\AutoFindComLib.dll
+F:\Projects\C#\AutoFindComm\bin\Debug\AutoFindComLib.pdb
+F:\Projects\C#\AutoFindComm\obj\Debug\AutoFindComLib.dll
+F:\Projects\C#\AutoFindComm\obj\Debug\AutoFindComLib.pdb

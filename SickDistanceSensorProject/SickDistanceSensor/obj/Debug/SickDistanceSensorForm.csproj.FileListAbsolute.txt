@@ -1,0 +1,71 @@
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\bin\Debug\SickDistanceSensor.exe.config
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\bin\Debug\SickDistanceSensor.exe
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\bin\Debug\SickDistanceSensor.pdb
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\bin\Debug\AutoConnectToArduino.dll
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\bin\Debug\CmdMessenger.dll
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\bin\Debug\AutoConnectToArduino.pdb
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\bin\Debug\CmdMessenger.pdb
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\obj\Debug\SickDistanceSensorForm.csprojResolveAssemblyReference.cache
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\obj\Debug\SickDistanceSensor.SickDistanceSensorForm.resources
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\obj\Debug\SickDistanceSensor.Properties.Resources.resources
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\obj\Debug\SickDistanceSensorForm.csproj.GenerateResource.Cache
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\obj\Debug\SickDistanceSensor.exe
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\obj\Debug\SickDistanceSensor.pdb
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensor\SickDistanceSensor\bin\Debug\SickDistanceSensor.exe.config
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensor\SickDistanceSensor\obj\Debug\SickDistanceSensor.exe
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensor\SickDistanceSensor\obj\Debug\SickDistanceSensor.pdb
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensor\SickDistanceSensor\obj\Debug\SickDistanceSensorForm.csprojResolveAssemblyReference.cache
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensor\SickDistanceSensor\obj\Debug\SickDistanceSensor.SickDistanceSensorForm.resources
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensor\SickDistanceSensor\obj\Debug\SickDistanceSensor.Properties.Resources.resources
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensor\SickDistanceSensor\obj\Debug\SickDistanceSensorForm.csproj.GenerateResource.Cache
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensor\SickDistanceSensor\bin\Debug\SickDistanceSensor.exe
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensor\SickDistanceSensor\bin\Debug\SickDistanceSensor.pdb
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensor\SickDistanceSensor\bin\Debug\AutoConnectToArduino.dll
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensor\SickDistanceSensor\bin\Debug\CmdMessenger.dll
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensor\SickDistanceSensor\bin\Debug\AutoConnectToArduino.pdb
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensor\SickDistanceSensor\bin\Debug\CmdMessenger.pdb
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\SickDistanceSensorProject.exe.config
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\SickDistanceSensorProject.exe
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\SickDistanceSensorProject.pdb
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\AutoConnectToArduino.dll
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\CmdMessenger.dll
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\AutoConnectToArduino.pdb
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\CmdMessenger.pdb
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\obj\Debug\SickDistanceSensorForm.csprojResolveAssemblyReference.cache
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\obj\Debug\SickDistanceSensor.SickDistanceSensorForm.resources
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\obj\Debug\SickDistanceSensor.Properties.Resources.resources
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\obj\Debug\SickDistanceSensorForm.csproj.GenerateResource.Cache
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\obj\Debug\SickDistanceSensorProject.exe
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\obj\Debug\SickDistanceSensorProject.pdb
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\SickDistanceSensor.dll
+C:\Users\lpena\Google Drive\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\SickDistanceSensor.pdb
+Z:\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\SickDistanceSensorProject.exe.config
+Z:\SickDistanceSensorProject\SickDistanceSensor\obj\Debug\SickDistanceSensorProject.exe
+Z:\SickDistanceSensorProject\SickDistanceSensor\obj\Debug\SickDistanceSensorProject.pdb
+Z:\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\SickDistanceSensorProject.exe
+Z:\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\SickDistanceSensorProject.pdb
+Z:\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\AutoConnectToArduino.dll
+Z:\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\CmdMessenger.dll
+Z:\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\SickDistanceSensor.dll
+Z:\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\AutoConnectToArduino.pdb
+Z:\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\CmdMessenger.pdb
+Z:\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\SickDistanceSensor.pdb
+Z:\SickDistanceSensorProject\SickDistanceSensor\obj\Debug\SickDistanceSensorForm.csprojResolveAssemblyReference.cache
+Z:\SickDistanceSensorProject\SickDistanceSensor\obj\Debug\SickDistanceSensor.SickDistanceSensorForm.resources
+Z:\SickDistanceSensorProject\SickDistanceSensor\obj\Debug\SickDistanceSensor.Properties.Resources.resources
+Z:\SickDistanceSensorProject\SickDistanceSensor\obj\Debug\SickDistanceSensorForm.csproj.GenerateResource.Cache
+F:\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\SickDistanceSensorProject.exe.config
+F:\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\obj\Debug\SickDistanceSensorProject.exe
+F:\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\obj\Debug\SickDistanceSensorProject.pdb
+F:\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\SickDistanceSensorProject.exe
+F:\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\SickDistanceSensorProject.pdb
+F:\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\AutoConnectToArduino.dll
+F:\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\CmdMessenger.dll
+F:\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\SickDistanceSensor.dll
+F:\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\AutoConnectToArduino.pdb
+F:\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\CmdMessenger.pdb
+F:\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\bin\Debug\SickDistanceSensor.pdb
+F:\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\obj\Debug\SickDistanceSensorForm.csprojResolveAssemblyReference.cache
+F:\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\obj\Debug\SickDistanceSensor.SickDistanceSensorForm.resources
+F:\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\obj\Debug\SickDistanceSensor.Properties.Resources.resources
+F:\Projects\C#\SickDistanceSensorProject\SickDistanceSensor\obj\Debug\SickDistanceSensorForm.csproj.GenerateResource.Cache

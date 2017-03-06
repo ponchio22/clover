@@ -1,0 +1,11 @@
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\bin\Debug\SickDistanceSensor.exe.config
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\bin\Debug\SickDistanceSensor.exe
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\bin\Debug\SickDistanceSensor.pdb
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\obj\Debug\SickDistanceSensor.csprojResolveAssemblyReference.cache
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\obj\Debug\SickDistanceSensor.SickDistanceSensorForm.resources
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\obj\Debug\SickDistanceSensor.Properties.Resources.resources
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\obj\Debug\SickDistanceSensor.csproj.GenerateResource.Cache
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\obj\Debug\SickDistanceSensor.exe
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\obj\Debug\SickDistanceSensor.pdb
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\bin\Debug\AutoConnectToArduino.dll
+E:\Documents\Projects\SickDistanceSensor\SickDistanceSensor\bin\Debug\AutoConnectToArduino.pdb

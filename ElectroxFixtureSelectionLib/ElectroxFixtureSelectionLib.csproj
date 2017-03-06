@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{96CD94E9-FC3A-4788-B558-6B07DA63B242}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ElectroxFixtureSelectionLib</RootNamespace>
+    <AssemblyName>ElectroxFixtureSelectionLib</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ElectroxFixtureSelection.cs" />
+    <Compile Include="ElectroxFixtureSelectionLocalSettings.cs" />
+    <Compile Include="LaserFixtureDataTable.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AutoFindComm\AutoFindComLib.csproj">
+      <Project>{1cb87a5b-24ea-46bd-a56e-18e8d87f2f7f}</Project>
+      <Name>AutoFindComLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CmdMessenger\CmdMessenger.csproj">
+      <Project>{ad9ebc78-d7d1-4f32-9847-e6bf42b73b4a}</Project>
+      <Name>CmdMessenger</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ElectroxFixtureSelectionUI\ElectroxProgramsManagment\ElectroxProgramsManagment.csproj">
+      <Project>{d2f97738-d4c9-41e5-b1da-5074ec4cd5b4}</Project>
+      <Name>ElectroxProgramsManagment</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ElectroxLaserSelectionLib\ElectroxLaserSelectionLib.csproj">
+      <Project>{9675b4c2-8681-41e5-a07f-f4d3b0f5b385}</Project>
+      <Name>ElectroxLaserSelectionLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LocalSettingsManager\LocalSettingsManager.csproj">
+      <Project>{ce6c71b4-e022-4958-9fd9-f540e904e047}</Project>
+      <Name>LocalSettingsManager</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
